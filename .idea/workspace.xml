@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da14845c-5386-4f7d-b266-7e88bd5fb60d" name="Default" comment="" />
+    <list default="true" id="da14845c-5386-4f7d-b266-7e88bd5fb60d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/connectionManager.js" afterPath="$PROJECT_DIR$/lib/connectionManager.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="ddp-ussd.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="da14845c-5386-4f7d-b266-7e88bd5fb60d" time="1441284025776" ignored="false" />
-    <file path="/connectionManager.js" changelist="da14845c-5386-4f7d-b266-7e88bd5fb60d" time="1441285558866" ignored="false" />
+    <file path="/connectionManager.js" changelist="da14845c-5386-4f7d-b266-7e88bd5fb60d" time="1441292484319" ignored="false" />
     <file path="/index.js" changelist="da14845c-5386-4f7d-b266-7e88bd5fb60d" time="1441279904065" ignored="false" />
     <file path="/ussd_session.js" changelist="da14845c-5386-4f7d-b266-7e88bd5fb60d" time="1441277453569" ignored="false" />
     <file path="/.gitignore" changelist="da14845c-5386-4f7d-b266-7e88bd5fb60d" time="1441290659251" ignored="false" />
@@ -37,19 +41,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="connectionManager.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="connectionManager.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/connectionManager.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="31" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0">
+            <state line="244" column="9" selection-start="7441" selection-end="7441" vertical-scroll-proportion="0.74654377">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="18" selection-start="14" selection-end="14" vertical-scroll-proportion="0.023041476">
+            <state line="1" column="18" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -58,7 +62,7 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="25" selection-start="313" selection-end="341" vertical-scroll-proportion="0.0">
+            <state line="11" column="22" selection-start="310" selection-end="310" vertical-scroll-proportion="-6.875">
               <folding />
             </state>
           </provider>
@@ -82,18 +86,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/ddp-ussd.js" />
         <option value="$PROJECT_DIR$/node_modules/modem/lib/ussd_session.js" />
         <option value="$PROJECT_DIR$/node_modules/gsm-modem/index.js" />
-        <option value="$PROJECT_DIR$/lib/connectionManager.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/lib/connectionManager.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-12" />
-    <option name="y" value="72" />
+    <option name="y" value="29" />
     <option name="width" value="1227" />
     <option name="height" value="774" />
   </component>
@@ -152,24 +155,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ddp-ussd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ddp-ussd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node_modules" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -254,14 +239,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-12" y="72" width="1227" height="774" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="29" width="1227" height="774" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2531753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2531753" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -358,9 +343,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="25" selection-start="313" selection-end="341" vertical-scroll-proportion="0.0">
+        <state line="1" column="18" selection-start="14" selection-end="14" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -372,16 +357,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/connectionManager.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="31" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0">
+        <state line="11" column="22" selection-start="310" selection-end="310" vertical-scroll-proportion="-6.875">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/lib/connectionManager.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="18" selection-start="14" selection-end="14" vertical-scroll-proportion="0.023041476">
+        <state line="244" column="9" selection-start="7441" selection-end="7441" vertical-scroll-proportion="0.74654377">
           <folding />
         </state>
       </provider>

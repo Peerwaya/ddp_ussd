@@ -9,6 +9,7 @@
   "dependencies": {
     "commander": "^2.8.1",
     "gsm-modem": "^0.3.19",
+    "modem": "^1.0.3",
     "request": "^2.61.0",
     "serialport": "^1.7.4",
     "sms-pdu-node": "^0.1.2",
