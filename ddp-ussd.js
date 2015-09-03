@@ -1,5 +1,5 @@
 var commander = require('commander');
-var proxy = require('./lib/proxy');
+var connectionManager = require('./lib/connectionManager');
 var optionsParser = commander
   .version(require('./package.json').version)
   .option('-m, --meteorPort <port>', 'Meteor App Port [default: 3000]', 3000)
@@ -8,7 +8,7 @@ var optionsParser = commander
   .option('-v, --version', 'print version', false);
 
 var argv = optionsParser.parse(process.argv);
-proxy(argv.meteorPort, argv.proxyPort, argv.ussdUrl);
+connectionManager(argv.meteorPort, argv.proxyPort, argv.ussdUrl);
 
 
 var serialport = require('serialport');
